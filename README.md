@@ -1,4 +1,9 @@
-# 💤 LazyVim
+An NeoVim setup repository
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Based on LazyVim
+
+Requirements:
+- NeoVim >= 0.9.0
+- Git >= 2.12.0
+- C compiler for [nvim-treesitter]
+
