@@ -4,6 +4,9 @@
 --
 --
 
+-- local discipline = require("cquan.discipline")
+-- discipline.cowboy()
+
 local keymap = vim.keymap
 keymap.set("n", "x", "_x")
 
